@@ -1,2 +1,2 @@
-gallery-popover
-========
+Tipsy
+=====
