@@ -1,0 +1,7 @@
+{
+    "gallery-popover": {
+        "requires": [
+            "yui-base"
+        ]
+    }
+}
